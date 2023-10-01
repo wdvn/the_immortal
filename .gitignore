@@ -1,0 +1,9 @@
+/target
+
+assets
+
+Cargo.lock
+
+.idea
+
+logs
